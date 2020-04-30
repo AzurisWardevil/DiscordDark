@@ -1,5 +1,5 @@
-@import url(https://github.com/AzurisWardevil/DiscordDark/blob/master/hljs.css);
-@import url(https://github.com/AzurisWardevil/DiscordDark/blob/master/settingsIcons.css);
+@import url(https://raw.githubusercontent.com/AzurisWardevil/DiscordDark/master/hljs.css);
+@import url(https://raw.githubusercontent.com/AzurisWardevil/DiscordDark/master/settingsIcons.css);
 
 :root {
 	--main-blue: #224466;
